@@ -143,6 +143,58 @@ del {
     text-decoration: line-through;
 }
 
+#divHeaderBrasil {
+    float:left;
+    margin:0;
+    padding:0;
+    width:100%;
+}
+
+#divHeaderBrasil ul {
+    background:transparent url(./bgDivHeaderBrasil.gif) repeat-x scroll 0 0;
+    border-bottom:4px solid #93AB93;
+    float:left;
+    margin:0;
+    padding:0;
+    width:100%;
+}
+
+#divHeaderBrasil ul li.logo {
+    background:transparent url(./imgDivHeaderBrasil.jpg) no-repeat scroll 0 0;
+    display:inline;
+    float:left;
+    height:35px;
+    margin:0;
+    padding:0;
+    width:700px;
+}
+
+#divHeaderBrasil ul li img.comunicacoes {
+    float:left;
+    padding:5px 0 0 42px;
+}
+
+#divHeaderBrasil ul li img {
+    margin:0;
+    vertical-align:middle;
+}
+
+#divHeaderBrasil ul li.brasil {
+    background:transparent url(./imgBrasilPais.jpg) no-repeat scroll 0 0;
+    display:inline;
+    float:right;
+    height:35px;
+    margin:0;
+    padding:0;
+    width:120px;
+}
+
+#divHeaderBrasil ul li img {
+    margin:0;
+    padding-top:3px;
+    vertical-align:middle;
+}
+
 /* YOUR CSS RULES STOP HERE */
 
 /* </dtml-with> */
