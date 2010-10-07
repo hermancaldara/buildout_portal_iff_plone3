@@ -8,10 +8,12 @@
 <div id="divHeaderBrasil">
     <ul>
         <li class="logo">
-            <img src="./logo.png" alt="Comunicações - Ministério das Comunicações" title="Comunicações - Ministério das Comunicações" class="comunicacoes">
+            <img src="./logo.png" alt="Educação - Ministério da Educação" title="Educação - Ministério da Educação" class="comunicacoes">
         </li>
         <li class="brasil">
-            <img src="./barraGovFed_logo.gif" alt="Brasil - Um Paí­s de todos" title="Brasil - Um PaÃís de todos"> 
+            <a target="_blank" href="http://www.brasil.gov.br">
+              <img src="./barraGovFed_logo.gif"> 
+            </a>
         </li>
     </ul>
 </div>
