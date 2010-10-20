@@ -12,7 +12,7 @@
     margin-top:0.3em;
     background-image:url(topo.gif);
     background-repeat:no-repeat;
-    background-position:right top;
+    background-position:right;
     border:1px solid #CCCCCC;
 }
 
